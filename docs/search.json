@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "nmshahir.github.io",
+    "title": "Nur M. Shahir",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Translational Bioinformatician"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nur M. Shahir",
+    "section": "Education",
+    "text": "Education\nPhD in Bioinformatics and Computational Biology, University of North Carolina at Chapel Hill | 2020\nMS Statistics, University of Maryland, Baltimore County | 2013\nBSc Mathematics, Massachusetts Institute of Technology | 2010\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

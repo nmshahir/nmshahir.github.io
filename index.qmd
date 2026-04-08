@@ -1,6 +1,22 @@
 ---
-title: "nmshahir.github.io"
+title: "Nur M. Shahir"
+about: 
+    template: jolla
+    image: images/avatar.jpg
+    links:
+        - icon: github
+          text: Github
+          href: https://github.com/nmshahir
 ---
+*Translational Bioinformatician*
+
+## Education
+
+PhD in Bioinformatics and Computational Biology, University of North Carolina at Chapel Hill | 2020
+
+MS Statistics, University of Maryland, Baltimore County | 2013
+
+BSc Mathematics, Massachusetts Institute of Technology | 2010
 
 This is a Quarto website.
 
